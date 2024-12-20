@@ -1,0 +1,26 @@
+body{
+	
+background-image:url(22.jpeg);
+background-repeat: no-repeat;
+background-size:cover;
+
+}
+h1{
+	color:rgba(0, 38, 128, 0.874);
+	 text-align:center;
+	 font-size: 70px;
+}
+h2{
+	font-size:30px;
+	color:black;
+}
+p{
+	color :black;
+	font-size: 20px;
+}
+
+
+
+.img{
+	height: 700px;
+width: 600px;}
